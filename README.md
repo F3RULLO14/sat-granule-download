@@ -1,6 +1,10 @@
 # Search, Download Granules
 
-This script fetches and downloads bands of a COG from the LPCLOUD data center.
+A script to download bands of a cloud optimized granule from the LP Cloud data center. 
+
+The collections searched include [HLSL30.v2.0](https://lpdaac.usgs.gov/products/hlsl30v002/) and [HLSS30.v2.0](https://lpdaac.usgs.gov/products/hlss30v002/). Both collection items are multi-band cloud optimized geotiffs. More details can be found by following each collections link.
+
+Both collections can be searched on via web thanks to [EarthData Search](https://search.earthdata.nasa.gov/search?q=hls).
 
 ## Prerequisite
 
